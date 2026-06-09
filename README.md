@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>Read in English</strong> |
-  <a href="README.vi.md"><strong>Doc bang tieng Viet</strong></a>
+  <a href="README.vi.md"><strong>Đọc bằng tiếng Việt</strong></a>
 </p>
 
 <p align="center">

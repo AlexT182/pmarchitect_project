@@ -5,79 +5,79 @@
 </p>
 
 <p align="center">
-  <strong>Workspace AI cho Product Management giup bien y tuong tho thanh bo tai lieu co cau truc de co the bat tay vao lam.</strong>
+  <strong>Workspace AI cho Product Management giúp biến ý tưởng thô thành bộ tài liệu có cấu trúc để có thể bắt tay vào làm.</strong>
 </p>
 
 <p align="center">
-  PM Architect AI giup founder, PM va builder di tu y dinh san pham con mo ho
-  sang PRD, personas, user stories, architecture va mot bo thinking san sang cho delivery.
+  PM Architect AI giúp founder, PM và builder đi từ ý định sản phẩm còn mơ hồ
+  sang PRD, personas, user stories, architecture và một bộ thinking sẵn sàng cho delivery.
 </p>
 
 <p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/Nen%20tang-Hosted%20Web-0F766E?style=flat-square">
-  <img alt="Model" src="https://img.shields.io/badge/Mo%20hinh-AI%20PM%20Workspace-1D4ED8?style=flat-square">
-  <img alt="Audience" src="https://img.shields.io/badge/Doi%20tuong-Founders%20%26%20Product%20Teams-F59E0B?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/N%E1%BB%81n%20t%E1%BA%A3ng-Hosted%20Web-0F766E?style=flat-square">
+  <img alt="Model" src="https://img.shields.io/badge/M%C3%B4%20h%C3%ACnh-AI%20PM%20Workspace-1D4ED8?style=flat-square">
+  <img alt="Audience" src="https://img.shields.io/badge/%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng-Founders%20%26%20Product%20Teams-F59E0B?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/License-Closed--source-7C3AED?style=flat-square">
 </p>
 
 <p align="center">
   <a href="README.md"><strong>Read in English</strong></a> |
-  <strong>Doc bang tieng Viet</strong>
+  <strong>Đọc bằng tiếng Việt</strong>
 </p>
 
 <p align="center">
   <a href="https://pmarchitechai.alphatech.ai.vn/"><strong>Live Site</strong></a>
   |
-  <a href="SUPPORT.md"><strong>Ho Tro</strong></a>
+  <a href="SUPPORT.md"><strong>Hỗ Trợ</strong></a>
   |
   <a href="docs/FAQ.md"><strong>FAQ</strong></a>
 </p>
 
-## Cu Chuyen Lon
+## Cú Chuyển Lớn
 
-Rat nhieu cong viec product giai doan dau van bat dau theo cach rat lon xon:
+Rất nhiều công việc product giai đoạn đầu vẫn bắt đầu theo cách rất lộn xộn:
 
-- Y tuong nam trong nhieu ghi chu roi rac,
-- Requirements giu mo ho qua lau,
-- PM artifacts duoc viet rat muon,
-- Team ton thoi gian tranh luan cau truc thay vi di tiep,
-- Architecture va user stories tro thanh mot viec cleanup thu cong.
+- Ý tưởng nằm trong nhiều ghi chú rời rạc,
+- Requirements giữ mơ hồ quá lâu,
+- PM artifacts được viết rất muộn,
+- Team tốn thời gian tranh luận cấu trúc thay vì đi tiếp,
+- Architecture và user stories trở thành một việc cleanup thủ công.
 
-PM Architect AI doi loop do.
+PM Architect AI đổi loop đó.
 
-No cho phep nguoi dung di qua mot AI-guided discovery flow, sau do bien y tuong san pham da ro hon thanh mot workspace co PRD, personas, user stories, technical architecture, diagrams va duoc luu lai de tiep tuc su dung.
+Nó cho phép người dùng đi qua một AI-guided discovery flow, sau đó biến ý tưởng sản phẩm đã rõ hơn thành một workspace có PRD, personas, user stories, technical architecture, diagrams và được lưu lại để tiếp tục sử dụng.
 
-Diem "wow" khong chi la AI viet ra mot document.
-Diem "wow" la product thinking tro thanh mot workspace co the tiep tuc xay dung, thay vi mot cuoc brainstorm dung mot lan.
+Điểm "wow" không chỉ là AI viết ra một document.  
+Điểm "wow" là product thinking trở thành một workspace có thể tiếp tục xây dựng, thay vì một cuộc brainstorm dùng một lần.
 
-> Tu ban nang san pham con tho thanh mot workspace co cau truc, san sang cho delivery.
+> Từ bản năng sản phẩm còn thô thành một workspace có cấu trúc, sẵn sàng cho delivery.
 
-## Vi Sao Trai Nghiem Nay Khac
+## Vì Sao Trải Nghiệm Này Khác
 
-1. **Discover** y tuong thong qua hoi thoai AI co dan dat.
-2. **Generate** bo PM artifacts trong mot flow thong nhat.
-3. **Continue** tinh chinh va quan ly cac artifact trong workspace luu tru lau dai.
+1. **Discover** ý tưởng thông qua hội thoại AI có dẫn dắt.
+2. **Generate** bộ PM artifacts trong một flow thống nhất.
+3. **Continue** tinh chỉnh và quản lý các artifact trong workspace lưu trữ lâu dài.
 
-Repository nay la hub public de gioi thieu san pham va ho tro cho PM Architect AI. No khong chua source code cua ung dung.
+Repository này là hub public để giới thiệu sản phẩm và hỗ trợ cho PM Architect AI. Nó không chứa source code của ứng dụng.
 
-## Ban Nhan Duoc Gi
+## Bạn Nhận Được Gì
 
-- `AI Discovery Flow` de lam ro goals, users va scope truoc khi generate
-- `PM Artifact Suite` cho PRDs, personas, stories, technical architecture va diagrams
-- `Persistent Workspace` voi dashboard, projects va settings
-- `Delivery Shape` giup product thinking gan hon voi execution
-- `Knowledge Sync` qua Synapse integration de day artifact sang he thong khac
+- `AI Discovery Flow` để làm rõ goals, users và scope trước khi generate
+- `PM Artifact Suite` cho PRDs, personas, stories, technical architecture và diagrams
+- `Persistent Workspace` với dashboard, projects và settings
+- `Delivery Shape` giúp product thinking gần hơn với execution
+- `Knowledge Sync` qua Synapse integration để đẩy artifact sang hệ thống khác
 
-## Nhin Nhanh
+## Nhìn Nhanh
 
-- Nen tang web hosted
-- Landing page va workspace co xac thuc
-- Dashboard va cac project da luu
-- PM documents do AI tao
-- Settings va integration surface
+- Nền tảng web hosted
+- Landing page và workspace có xác thực
+- Dashboard và các project đã lưu
+- PM documents do AI tạo
+- Settings và integration surface
 - Synapse push workflow
 
-## Xem Nhanh Giao Dien
+## Xem Nhanh Giao Diện
 
 <p align="center">
   <img src="assets/screenshots/01-homepage.png" alt="PM Architect AI homepage" width="32%">
@@ -90,74 +90,74 @@ Repository nay la hub public de gioi thieu san pham va ho tro cho PM Architect A
   <img src="assets/screenshots/05-settings.png" alt="PM Architect AI settings" width="32%">
 </p>
 
-## Danh Cho Ai
+## Dành Cho Ai
 
-- Founders can bien y tuong tho thanh direction ro rang
-- Product managers can mot first-draft system nhanh hon
-- Builders muon co spec ro hon truoc khi vao development
-- Teams muon day PM artifacts vao broader knowledge workflow
+- Founders cần biến ý tưởng thô thành direction rõ ràng
+- Product managers cần một first-draft system nhanh hơn
+- Builders muốn có spec rõ hơn trước khi vào development
+- Teams muốn đẩy PM artifacts vào broader knowledge workflow
 
-## PM Architect AI Lam Duoc Gi
+## PM Architect AI Làm Được Gì
 
-- Cung cap landing page public cho san pham
-- Ho tro login va authenticated workspace access
-- Luu va hien thi projects trong dashboard
-- Tao PM artifacts nhu PRDs, personas, stories, architecture va diagrams
-- Cung cap settings cho account va Synapse integration
+- Cung cấp landing page public cho sản phẩm
+- Hỗ trợ login và authenticated workspace access
+- Lưu và hiển thị projects trong dashboard
+- Tạo PM artifacts như PRDs, personas, stories, architecture và diagrams
+- Cung cấp settings cho account và Synapse integration
 
-## Vi Sao San Pham Nay Ton Tai
+## Vì Sao Sản Phẩm Này Tồn Tại
 
-PM Architect AI khong co tham vong thay the product judgment.
+PM Architect AI không có tham vọng thay thế product judgment.
 
-No ton tai de giai mot bai toan hep va thuc te hon:
+Nó tồn tại để giải một bài toán hẹp và thực tế hơn:
 
-> "Team co mot y tuong, nhung can mot cach nhanh hon de bien no thanh bo tai lieu san pham huu dung truoc khi dong luc phat trien bi mat."
+> "Team có một ý tưởng, nhưng cần một cách nhanh hơn để biến nó thành bộ tài liệu sản phẩm hữu dụng trước khi động lực phát triển bị mất."
 
-Vi vay san pham nay giong mot AI PM workspace hon la cong cu viet noi dung tong quat.
+Vì vậy sản phẩm này giống một AI PM workspace hơn là công cụ viết nội dung tổng quát.
 
-## Vi Sao Nguoi Dung Nho No
+## Vì Sao Người Dùng Nhớ Nó
 
-- Vi PM output den nhanh hon thay vi bi tre
-- Vi no nen discovery va documentation vao cung mot flow
-- Vi no noi ideation voi execution artifacts co cau truc
-- Vi no cho team thu de tiep tuc refine, khong chi ngam mot lan roi bo
+- Vì PM output đến nhanh hơn thay vì bị trễ
+- Vì nó nén discovery và documentation vào cùng một flow
+- Vì nó nối ideation với execution artifacts có cấu trúc
+- Vì nó cho team thứ để tiếp tục refine, không chỉ ngắm một lần rồi bỏ
 
-## Pham Vi San Pham
+## Phạm Vi Sản Phẩm
 
-### Da Co San
+### Đã Có Sẵn
 
 - Hosted landing page
 - Login flow
 - Authenticated dashboard
 - Saved project workspace
-- PRD, personas, stories, tech, va diagrams surfaces
+- PRD, personas, stories, tech, và diagrams surfaces
 - Synapse integration settings
 
-### Luu Y Quan Trong
+### Lưu Ý Quan Trọng
 
-- PM Architect AI khong phai PM tool open-source
-- Repository nay khong phai repo source hay repo deploy
-- Chat luong output phu thuoc vao input, framing va human review
-- Artifact duoc generate de tang toc cong viec, khong thay the product leadership
+- PM Architect AI không phải PM tool open-source
+- Repository này không phải repo source hay repo deploy
+- Chất lượng output phụ thuộc vào input, framing và human review
+- Artifact được generate để tăng tốc công việc, không thay thế product leadership
 
-## Mo Hinh Rieng Tu
+## Mô Hình Riêng Tư
 
-PM Architect AI la mot san pham web hosted.
+PM Architect AI là một sản phẩm web hosted.
 
-Hanh vi du lieu o muc high-level:
+Hành vi dữ liệu ở mức high-level:
 
-- visitor co the browse landing page cong khai,
-- user da dang nhap co the truy cap workspace va project da luu,
-- project content va artifact co the duoc luu tren server de phuc vu trai nghiem,
-- provider AI va integration ben ngoai co the xu ly content tuy theo cau hinh dang bat.
+- visitor có thể browse landing page công khai,
+- user đã đăng nhập có thể truy cập workspace và project đã lưu,
+- project content và artifact có thể được lưu trên server để phục vụ trải nghiệm,
+- provider AI và integration bên ngoài có thể xử lý content tùy theo cấu hình đang bật.
 
-Xem [docs/PRIVACY.md](docs/PRIVACY.md) de doc ban privacy tom tat.
+Xem [docs/PRIVACY.md](docs/PRIVACY.md) để đọc bản privacy tóm tắt.
 
-## Cac Be Mat San Pham
+## Các Bề Mặt Sản Phẩm
 
-- Public marketing layer: landing page va login
+- Public marketing layer: landing page và login
 - Workspace layer: dashboard, project detail, generated artifacts
-- Settings layer: account preferences va Synapse integration
+- Settings layer: account preferences và Synapse integration
 
 ## Availability
 
@@ -165,64 +165,64 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) de doc ban privacy tom tat.
 - Product type: hosted AI product-management workspace
 - Current state: public landing page with authenticated project workspace
 
-## Bat Dau Trong 3 Buoc
+## Bắt Đầu Trong 3 Bước
 
-1. **Visit** live site de hieu loi hua san pham va cam giac workspace.
-2. **Review** screenshot va docs trong repo de thay ro artifact va settings surfaces.
-3. **Reach Out** qua support neu can access, context ve san pham, hay thao luan deployment.
+1. **Visit** live site để hiểu lời hứa sản phẩm và cảm giác workspace.
+2. **Review** screenshot và docs trong repo để thấy rõ artifact và settings surfaces.
+3. **Reach Out** qua support nếu cần access, context về sản phẩm, hay thảo luận deployment.
 
-## Bat Dau Tu Day
+## Bắt Đầu Từ Đây
 
 - `Live Site`: https://pmarchitechai.alphatech.ai.vn/
-- `Ho Tro`: [SUPPORT.md](SUPPORT.md)
+- `Hỗ Trợ`: [SUPPORT.md](SUPPORT.md)
 - `FAQ`: [docs/FAQ.md](docs/FAQ.md)
 - `Roadmap`: [docs/ROADMAP.md](docs/ROADMAP.md)
 
-## Ho Tro
+## Hỗ Trợ
 
 - Email: `taminhquan182@gmail.com`
 
-## Kham Pha PM Architect AI
+## Khám Phá PM Architect AI
 
 <p align="center">
-  <strong>Muon xem cach mot y tuong co the thanh PRD, stories, architecture va mot workspace song?</strong><br>
-  Hay vao live site truoc, sau do dung support path neu can hoi ve access hay san pham.
+  <strong>Muốn xem cách một ý tưởng có thể thành PRD, stories, architecture và một workspace sống?</strong><br>
+  Hãy vào live site trước, sau đó dùng support path nếu cần hỏi về access hay sản phẩm.
 </p>
 
 <p align="center">
-  <a href="https://pmarchitechai.alphatech.ai.vn/"><strong>Mo Live Site</strong></a>
+  <a href="https://pmarchitechai.alphatech.ai.vn/"><strong>Mở Live Site</strong></a>
   |
-  <a href="SUPPORT.md"><strong>Lien He Ho Tro</strong></a>
+  <a href="SUPPORT.md"><strong>Liên Hệ Hỗ Trợ</strong></a>
 </p>
 
-## Luu Y Closed-Source
+## Lưu Ý Closed-Source
 
-PM Architect AI la san pham closed-source cua AlphaTech.
+PM Architect AI là sản phẩm closed-source của AlphaTech.
 
-Repository nay ton tai de:
+Repository này tồn tại để:
 
-- giai thich san pham
-- cho thay nang luc hien tai
-- cong bo screenshot va tai lieu public
-- cung cap dau moi support va security contact
+- giải thích sản phẩm
+- cho thấy năng lực hiện tại
+- công bố screenshot và tài liệu public
+- cung cấp đầu mối support và security contact
 
-No khong bao gom:
+Nó không bao gồm:
 
 - application source code
-- private backend hoac deployment code
+- private backend hoặc deployment code
 - user credentials
-- secret infrastructure hoac keys
+- secret infrastructure hoặc keys
 - private project data
 
-## Pham Vi Repository
+## Phạm Vi Repository
 
-Repo nay chi nen chua:
+Repo này chỉ nên chứa:
 
 - product overview
 - FAQ
 - privacy summary
 - roadmap
-- support va security contacts
+- support và security contacts
 - screenshots
 
-Neu sau nay co public documentation site hoac release flow rieng, phan do nen duoc document ro rang thay vi de nguoi xem tu suy dien tu repo nay.
+Nếu sau này có public documentation site hoặc release flow riêng, phần đó nên được document rõ ràng thay vì để người xem tự suy diễn từ repo này.
