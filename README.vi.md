@@ -14,23 +14,23 @@
 </p>
 
 <p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/N%E1%BB%81n%20t%E1%BA%A3ng-Hosted%20Web-0F766E?style=flat-square">
-  <img alt="Model" src="https://img.shields.io/badge/M%C3%B4%20h%C3%ACnh-AI%20PM%20Workspace-1D4ED8?style=flat-square">
-  <img alt="Audience" src="https://img.shields.io/badge/%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng-Founders%20%26%20Product%20Teams-F59E0B?style=flat-square">
+  <img alt="Nền tảng" src="https://img.shields.io/badge/N%E1%BB%81n%20t%E1%BA%A3ng-Web%20Hosted-0F766E?style=flat-square">
+  <img alt="Mô hình" src="https://img.shields.io/badge/M%C3%B4%20h%C3%ACnh-Workspace%20AI%20cho%20PM-1D4ED8?style=flat-square">
+  <img alt="Đối tượng" src="https://img.shields.io/badge/%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng-Founders%20%26%20%C4%90%E1%BB%99i%20Product-F59E0B?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/License-Closed--source-7C3AED?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="README.md"><strong>Read in English</strong></a> |
+  <a href="README.md"><strong>Đọc bản tiếng Anh</strong></a> |
   <strong>Đọc bằng tiếng Việt</strong>
 </p>
 
 <p align="center">
-  <a href="https://pmarchitechai.alphatech.ai.vn/"><strong>Live Site</strong></a>
+  <a href="https://pmarchitechai.alphatech.ai.vn/"><strong>Trang Live</strong></a>
   |
   <a href="SUPPORT.md"><strong>Hỗ Trợ</strong></a>
   |
-  <a href="docs/FAQ.md"><strong>FAQ</strong></a>
+  <a href="docs/FAQ.md"><strong>Câu Hỏi Thường Gặp</strong></a>
 </p>
 
 ## Cú Chuyển Lớn
@@ -126,7 +126,7 @@ Vì vậy sản phẩm này giống một AI PM workspace hơn là công cụ vi
 
 ### Đã Có Sẵn
 
-- Hosted landing page
+- Landing page hosted
 - Login flow
 - Authenticated dashboard
 - Saved project workspace
@@ -159,11 +159,11 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) để đọc bản privacy tóm tắt.
 - Workspace layer: dashboard, project detail, generated artifacts
 - Settings layer: account preferences và Synapse integration
 
-## Availability
+## Tình Trạng Phát Hành
 
 - Public site: https://pmarchitechai.alphatech.ai.vn/
-- Product type: hosted AI product-management workspace
-- Current state: public landing page with authenticated project workspace
+- Loại sản phẩm: workspace AI hosted cho product management
+- Trạng thái hiện tại: landing page public với project workspace có xác thực
 
 ## Bắt Đầu Trong 3 Bước
 
@@ -173,14 +173,14 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) để đọc bản privacy tóm tắt.
 
 ## Bắt Đầu Từ Đây
 
-- `Live Site`: https://pmarchitechai.alphatech.ai.vn/
+- `Trang Live`: https://pmarchitechai.alphatech.ai.vn/
 - `Hỗ Trợ`: [SUPPORT.md](SUPPORT.md)
-- `FAQ`: [docs/FAQ.md](docs/FAQ.md)
-- `Roadmap`: [docs/ROADMAP.md](docs/ROADMAP.md)
+- `Câu Hỏi Thường Gặp`: [docs/FAQ.md](docs/FAQ.md)
+- `Lộ Trình`: [docs/ROADMAP.md](docs/ROADMAP.md)
 
 ## Hỗ Trợ
 
-- Email: `taminhquan182@gmail.com`
+- Email liên hệ: `taminhquan182@gmail.com`
 
 ## Khám Phá PM Architect AI
 
@@ -190,7 +190,7 @@ Xem [docs/PRIVACY.md](docs/PRIVACY.md) để đọc bản privacy tóm tắt.
 </p>
 
 <p align="center">
-  <a href="https://pmarchitechai.alphatech.ai.vn/"><strong>Mở Live Site</strong></a>
+  <a href="https://pmarchitechai.alphatech.ai.vn/"><strong>Mở Trang Live</strong></a>
   |
   <a href="SUPPORT.md"><strong>Liên Hệ Hỗ Trợ</strong></a>
 </p>
@@ -219,7 +219,7 @@ Nó không bao gồm:
 Repo này chỉ nên chứa:
 
 - product overview
-- FAQ
+- câu hỏi thường gặp
 - privacy summary
 - roadmap
 - support và security contacts
